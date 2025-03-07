@@ -56,8 +56,8 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'kk@gmail.com',
+  PHONE: '+61415837036',
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/webkamal',

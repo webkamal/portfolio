@@ -1,11 +1,11 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Kamal Khanal';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Full Stack Web Developer | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'Australia',
+  City: 'Sydney',
+  Age: '45',
 };
 
 export const SKILLS = [
@@ -60,8 +60,8 @@ export const CONTACTS = {
   PHONE: '+923159591822',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
+  GITHUB: 'https://github.com/webkamal',
+  LINKEDIN: 'https://www.linkedin.com/in/khanalkamal/',
   TWITTER: 'https://twitter.com/iosamajavaid',
   FACEBOOK: 'https://www.facebook.com/iosamajavaid',
 };

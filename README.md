@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97ddad97-5d77-40b6-8fa3-35e2e034a97d"  alt="Muhammad Fiaz's Portfolio"/>
+  <img src="https://github.com/user-attachments/assets/97ddad97-5d77-40b6-8fa3-35e2e034a97d"  alt="kamalkhanal's Portfolio"/>
 </p>
 
 <div align="center">
-  <h1><a href="https://muhammadfiaz.com/">muhammadfiaz.com</a> | portfolio V2</h1>
+  <h1><a href="https://kamalkhanal.com/">kamalkhanal.com</a> | portfolio V2</h1>
   
 ![Stability](https://img.shields.io/badge/stability-good-blue.svg) ![MIT License](https://img.shields.io/badge/license-MIT-green)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/muhammad-fiaz/portfolio)

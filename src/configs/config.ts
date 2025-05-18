@@ -79,7 +79,7 @@ export const siteConfig: {
   metadata: {
     description: `Hi! I'm Kamal Khanal, a Full Stack developer passionate about building apps, exploring AI and ML, and collaborating on exciting projects. Let's connect!`,
     keywords:
-      'Muhammad Fiaz, Full Stack Developer, Kamal Khanal portfolio, Kamal Khanal GitHub, Web Development, Mobile Applications, Machine Learning, Artificial Intelligence, Open Source Developer, App Development',
+      'Kamal Khanal, Full Stack Developer, Kamal Khanal portfolio, Kamal Khanal GitHub, Web Development, Mobile Applications, Nextjs Developer, React Developer, Open Source Developer, App Development',
     type: 'website'
   },
   chatbot: {

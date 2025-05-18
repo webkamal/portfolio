@@ -71,8 +71,8 @@ export const siteConfig: {
     github_organisation: 'https://github.com/webkamal',
     company1: 'https://cheapestiles.com.au',
     daily_dev: {
-      username: 'muhammadfiaz',
-      card: 'https://api.daily.dev/devcards/v2/JVyK3ICBzKPdM0rcDj1o4.png?type=wide&r=vde'
+      username: 'webkamal',
+      card: 'https://api.daily.dev/devcards/v2/BTQ5qVDxJkaW6pXC5DX6H.png?type=wide&r=vde'
     },
     holopin: 'muhammadfiaz'
   },

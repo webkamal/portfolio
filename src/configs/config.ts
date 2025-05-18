@@ -55,18 +55,18 @@ export const siteConfig: {
   profile_image: 'https://avatars.githubusercontent.com/u/4837728?v=4',
   form_id: 'https://formspree.io/f/myzynpbr',
   social: {
-    kofi: 'https://ko-fi.com/muhammadfiaz',
-    sponsor: 'https://github.com/sponsors/muhammad-fiaz',
-    email: 'contact@muhammadfiaz.com',
-    twitter: '@muhammadfiaz_',
-    github: 'muhammad-fiaz',
-    linkedin: 'https://www.linkedin.com/in/muhammad-fiaz-/',
-    blog: 'https://articles.muhammadfiaz.com',
-    medium: 'https://muhammad-fiaz.medium.com',
-    dev: 'https://dev.to/muhammadfiaz',
-    hashnode: 'https://muhammadfiaz.hashnode.dev',
-    discord: 'https://discord.gg/mXMhy2EX',
-    github_organisation: 'https://github.com/FiazTechnologies',
+    kofi: 'https://ko-fi.com/webkamal',
+    sponsor: 'https://github.com/sponsors/webkamal',
+    email: 'hello@kamalkhanal.com',
+    twitter: '@web_kamal',
+    github: 'webkamal',
+    linkedin: 'https://www.linkedin.com/in/khanalkamal/',
+    blog: 'https://webkamal.com',
+    medium: 'https://webkamal.medium.com',
+    dev: 'https://dev.to/webkamal',
+    hashnode: 'https://webkamal.hashnode.dev',
+    discord: 'https://discord.gg/webkamal',
+    github_organisation: 'https://github.com/webkamal',
     daily_dev: {
       username: 'muhammadfiaz',
       card: 'https://api.daily.dev/devcards/v2/JVyK3ICBzKPdM0rcDj1o4.png?type=wide&r=vde'
@@ -74,9 +74,9 @@ export const siteConfig: {
     holopin: 'muhammadfiaz'
   },
   metadata: {
-    description: `Hi! I'm Muhammad Fiaz, a Full Stack developer passionate about building apps, exploring AI and ML, and collaborating on exciting projects. Let's connect!`,
+    description: `Hi! I'm Kamal Khanal, a Full Stack developer passionate about building apps, exploring AI and ML, and collaborating on exciting projects. Let's connect!`,
     keywords:
-      'Muhammad Fiaz, Full Stack Developer, Muhammad Fiaz portfolio, Muhammad Fiaz GitHub, Web Development, Mobile Applications, Machine Learning, Artificial Intelligence, Programming Languages, Open Source Developer, App Development',
+      'Muhammad Fiaz, Full Stack Developer, Kamal Khanal portfolio, Kamal Khanal GitHub, Web Development, Mobile Applications, Machine Learning, Artificial Intelligence, Open Source Developer, App Development',
     type: 'website'
   },
   chatbot: {

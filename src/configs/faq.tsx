@@ -15,11 +15,10 @@ export const faqData: FAQItem[] = [
     title: 'Who are you?',
     content: (
       <>
-        Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer passionate about
-        coding since childhood. I build innovative solutions using a variety of
-        technologies like Next.js, Node.js, Python, TypeScript, Go, Rust,
-        Flutter, and GenAI. I'm also diving into MLOps and always eager to learn
-        new tools and techniques.
+        Hey there! 👋 I'm Kamal Khanal, a Full Stack developer passionate about
+        coding. I build innovative solutions using a variety of technologies
+        like React/Next.js, Node.js, JavaScript, WordPress and GenAI. I'm also
+        diving into DevOps and always eager to learn new tools and techniques.
         <br className="mb-2" />
         For more about me, check out my{' '}
         <Link

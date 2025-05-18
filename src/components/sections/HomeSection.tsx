@@ -10,8 +10,8 @@ import SupportMe from '@/src/components/content/SupportMe';
 import FAQSection from '@/src/components/sections/FAQSection';
 import StatsSection from '@/src/components/sections/StatsSection';
 import SkillsSection from '@/src/components/sections/SkillsSection';
-import HolopinBadges from '@/src/components/content/HolopinBadges';
-import DevCard from '@/src/components/content/DevCard';
+// import HolopinBadges from '@/src/components/content/HolopinBadges';
+// import DevCard from '@/src/components/content/DevCard';
 
 const HomeSection = () => {
   return (
@@ -40,19 +40,22 @@ const HomeSection = () => {
         <CurrentTimeLineExp />
       </AnimationContainer>
 
+      {/* DevCard Section 
       <AnimationContainer customClassName="w-full mt-16">
         <DevCard />
       </AnimationContainer>
+      */}
 
       {/* Skills Section */}
       <AnimationContainer customClassName="w-full mt-16">
         <SkillsSection />
       </AnimationContainer>
 
-      {/* Skills Section */}
+      {/* Skills Section 
       <AnimationContainer customClassName="w-full mt-16">
         <HolopinBadges />
       </AnimationContainer>
+      */}
 
       {/* Stats Section */}
       <AnimationContainer customClassName="w-full mt-16">

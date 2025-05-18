@@ -17,7 +17,7 @@ const MySkills = () => {
         <div className="w-full flex flex-col gap-8">
           <div className="w-full flex justify-center items-center">
             <Image
-              src="https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15"
+              src="https://skillicons.dev/icons?i=aws,bootstrap,c,cs,cpp,cloudflare,codepen,css,docker,express,firebase,gcp,git,github,githubactions,gitlab,html,js,linux,md,mongodb,mysql,netlify,nextjs,nodejs,php,svelte,postgres,react,sass,sqlite,svg,tailwind,ts,vercel,vite,vscode,vue,laravel,wordpress&perline=15"
               alt="My Skills"
               className="relative w-full h-full max-w-3xl"
               width={500}

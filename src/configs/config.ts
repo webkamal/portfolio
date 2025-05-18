@@ -53,7 +53,7 @@ export const siteConfig: {
   github_org_name: 'Web Kamal',
   country: 'India',
   profile_image: 'https://avatars.githubusercontent.com/u/4837728?v=4',
-  form_id: 'https://formspree.io/f/myzynpbr',
+  form_id: 'https://formspree.io/f/xqaqnjdd',
   social: {
     kofi: 'https://ko-fi.com/webkamal',
     sponsor: 'https://github.com/sponsors/webkamal',

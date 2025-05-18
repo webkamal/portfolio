@@ -31,9 +31,9 @@
 
 </div>
 
-This project is built with Next.js and React, showcasing [Muhammad Fiaz](https://github.com/muhammad-fiaz/)'s [personal website](https://muhammadfiaz.com/).
+This project is built with Next.js and React, showcasing [Kamal Khanal](https://github.com/webkamal/)'s [personal website](https://kamalkhanal.com/).
 
-**Feel free to use this project for your portfolio or as a project reference. If you find it helpful, don't forget to give it a ⭐️ to show your support. [Fork this repo](https://github.com/muhammad-fiaz/portfolio/fork) if you want to contribute✨**
+**Feel free to use this project for your portfolio or as a project reference. If you find it helpful, don't forget to give it a ⭐️ to show your support. [Fork this repo](https://github.com/webkamal/portfolio/fork) if you want to contribute✨**
 
 **Support this non-profit open-source project with a little [sponsor ❤️](https://github.com/sponsors/muhammad-fiaz) or [Buy Me a Coffee ☕](https://buymecoffee.com/muhammadfiaz).**
 

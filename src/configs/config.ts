@@ -21,6 +21,7 @@ export const siteConfig: {
     hashnode: string;
     discord: string;
     github_organisation: string;
+    company1: string;
     daily_dev: {
       username: string;
       card: string;
@@ -31,6 +32,7 @@ export const siteConfig: {
     hacktoberfest: string;
     codsoft: string;
     github_snake: string;
+    company2: string;
   };
   chatbot: {
     rateLimit: number;
@@ -67,6 +69,7 @@ export const siteConfig: {
     hashnode: 'https://webkamal.hashnode.dev',
     discord: 'https://discord.gg/webkamal',
     github_organisation: 'https://github.com/webkamal',
+    company1: 'https://cheapestiles.com.au',
     daily_dev: {
       username: 'muhammadfiaz',
       card: 'https://api.daily.dev/devcards/v2/JVyK3ICBzKPdM0rcDj1o4.png?type=wide&r=vde'
@@ -89,6 +92,7 @@ export const siteConfig: {
   other: {
     hacktoberfest: 'https://hacktoberfest.com/',
     codsoft: 'https://www.codsoft.in/',
+    company2: 'https://allinit.com.au',
     github_snake:
       'https://raw.githubusercontent.com/muhammad-fiaz/muhammad-fiaz/output/github-contribution-grid-snake.svg'
   }

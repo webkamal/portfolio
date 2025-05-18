@@ -12,36 +12,36 @@ export interface ExperienceEntry {
 
 export const experienceEntries: ExperienceEntry[] = [
   {
-    title: 'Looking for Job Opportunities | Present',
+    title: 'Web Application Developer | Present',
     description:
-      "Currently seeking job opportunities in **Software Engineering**, **AI**, **Data Science**, and **Full Stack** development. Open to full-time roles, internships, or freelance work. Let's connect!",
+      "Currently working as a freelance role helping small business with web applications, **big or small**, **AI**, **Data Science**, and **Full Stack** development. Open to full-time roles, internships, or freelance work. Let's connect!",
     startDate: 'Present',
     endDate: 'Present',
     isActive: true,
     companyUrl: siteConfig.social.linkedin
   },
   {
-    title: 'Fiaz Technologies | Nov. 2023 - Present',
+    title: 'Web Developer / SEO Specialist | Jun. 2023 - Mar. 2004',
     description:
-      'Building developer-first tools at Fiaz Technologies to enhance productivity. Focused on creating innovative Tools that empower developers.',
-    startDate: 'Nov 2023',
-    endDate: 'Present',
-    isActive: true,
-    companyUrl: siteConfig.social.github_organisation
+      'Redesign company websites and optimize product pages for search engines, optimize meta tags, onsite SEO and link building, help with social media marketing',
+    startDate: 'Jun 2023',
+    endDate: 'Mar 2024',
+    isActive: false,
+    companyUrl: siteConfig.social.company1
   },
   {
-    title: 'Hacktoberfest 2024 | Oct. 2024 - Nov. 2024',
+    title: 'Web Developer | Jun. 2015 - Feb. 2018',
     description:
-      'Participated as a maintainer and content writer in the Hacktoberfest event. Contributed to open-source projects and wrote technical content on platforms such as Medium, Dev.to, and Hashnode.',
-    startDate: 'Oct 2024',
-    endDate: 'Nov 2024',
+      'Design & develop websites, WordPress design and development, Search engine optimisation, Email solutions, Microsoft Exchange, Google Workspace, Web Hosting setup & management, Determining client requirements, Help & support',
+    startDate: 'Jun 2015',
+    endDate: 'Feb 2018',
     isActive: false,
-    companyUrl: siteConfig.other.hacktoberfest
+    companyUrl: siteConfig.other.company2
   },
   {
     title: 'CodSoft - Data Science Intern | Sep. 2023 - Oct. 2023',
     description:
-      'Self-paced Data Science Intern where I gained practical experience in data science applications using Python. I also contributed to open-source projects and maintained repositories on GitHub.',
+      'Self-paced Data Science Learner where I gained practical experience in data science applications using Python. I also contributed to open-source projects and maintained repositories on GitHub.',
     startDate: 'Sep 2023',
     endDate: 'Oct 2023',
     companyUrl: siteConfig.other.codsoft

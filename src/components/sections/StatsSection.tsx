@@ -14,12 +14,9 @@ const StatsSection: React.FC = () => {
           title="GitHub Stats"
           content="Explore some of my key stats, achievements, and contributions on GitHub. Here's a snapshot of my journey on GitHub."
         />
-
         <GitHubStreak />
-
         <GitHubContributionHistory />
-
-        <GitHubTrophies />
+        {/* <GitHubTrophies /> */}
       </div>
     </AnimationContainer>
   );

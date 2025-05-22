@@ -38,6 +38,7 @@ export const experienceEntries: ExperienceEntry[] = [
     isActive: false,
     companyUrl: siteConfig.other.company2
   },
+  /* hide this experience 
   {
     title: 'CodSoft - Data Science Intern | Sep. 2023 - Oct. 2023',
     description:
@@ -46,6 +47,8 @@ export const experienceEntries: ExperienceEntry[] = [
     endDate: 'Oct 2023',
     companyUrl: siteConfig.other.codsoft
   },
+  */
+  /* hide this experience 
   {
     title: 'Hacktoberfest 2023 | Sep. 2023 - Oct. 2023',
     description:
@@ -54,6 +57,7 @@ export const experienceEntries: ExperienceEntry[] = [
     endDate: 'Oct 2023',
     companyUrl: siteConfig.other.hacktoberfest
   },
+  */
   {
     title: 'Technical Content Writer | Sep. 2023 - Present',
     description:
@@ -62,7 +66,8 @@ export const experienceEntries: ExperienceEntry[] = [
     endDate: 'Present',
     isActive: true,
     companyUrl: siteConfig.baseUrl + '/blog'
-  },
+  }
+  /* hide this experience 
   {
     title: 'Open Source Contributor & Maintainer | Dec. 2020 - Present',
     description:
@@ -72,4 +77,5 @@ export const experienceEntries: ExperienceEntry[] = [
     isActive: true,
     companyUrl: siteConfig.social.github
   }
+  */
 ];

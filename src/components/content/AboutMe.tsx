@@ -27,11 +27,11 @@ const AboutMe = () => {
 
       <p className="text-sm sm:text-base md:text-lg text-foreground dark:text-white mt-4">
         As I’ve evolved in my career, I’ve expanded my expertise into new areas
-        like Machine Learning (ML) and Artificial Intelligence (AI), diving deep
-        into neural networks and other cutting-edge technologies. But no matter
-        how much I learn, I always keep that same excitement and curiosity I had
-        as a child, exploring new fields and technologies that push the
-        boundaries of what’s possible.
+        like Vibe Coding and Artificial Intelligence (AI), diving deep into
+        large language models (LLM) and other cutting-edge technologies. But no
+        matter how much I learn, I always keep that same excitement and
+        curiosity I had as a child, exploring new fields and technologies that
+        push the boundaries of what’s possible.
       </p>
 
       <p className="text-sm sm:text-base md:text-lg text-foreground dark:text-white mt-4">

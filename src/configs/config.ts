@@ -52,8 +52,8 @@ export const siteConfig: {
   author: 'Kamal Khanal',
   author_surname: 'Khanal',
   titlePrefix: 'Kamal Khanal',
-  github_org_name: 'Web Kamal',
-  country: 'India',
+  github_org_name: 'WebKamal',
+  country: 'Australia',
   profile_image: 'https://avatars.githubusercontent.com/u/4837728?v=4',
   form_id: 'https://formspree.io/f/xqaqnjdd',
   social: {
@@ -93,7 +93,6 @@ export const siteConfig: {
     hacktoberfest: 'https://hacktoberfest.com/',
     codsoft: 'https://www.codsoft.in/',
     company2: 'https://allinit.com.au',
-    github_snake:
-      'https://raw.githubusercontent.com/muhammad-fiaz/muhammad-fiaz/output/github-contribution-grid-snake.svg'
+    github_snake: '/img/github-contribution-grid-snake.svg'
   }
 };

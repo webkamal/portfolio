@@ -1,4 +1,4 @@
-## [Todo List](https://github.com/muhammad-fiaz/portfolio/blob/main/TODO.md)
+## [Todo List](https://github.com/webkamal/portfolio/blob/main/TODO.md)
 
 - [x] need to add a dual theme feature
 - [x] need to add a blog section

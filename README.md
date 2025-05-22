@@ -195,6 +195,6 @@ If you have any questions or feedback, please don't hesitate to reach out.
 
 Don't forget to Stay tuned for updates and new features!
 
-  <img   align="right" src="https://github.com/webkamal/webkamal/assets/75434191/ed52c517-611e-4647-9b35-acd001a287b9" width="20%" />
+  <img   align="right" src="https://private-user-images.githubusercontent.com/75434191/274606852-ed52c517-611e-4647-9b35-acd001a287b9.gif" width="20%" />
 
 ### Happy Coding! 😊

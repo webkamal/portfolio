@@ -113,7 +113,7 @@ export const faqData: FAQItem[] = [
               target="_blank"
               rel="noopener noreferrer"
             >
-              Fiaz's Server
+              Kamal's Server
             </Link>
           </li>
         </ul>

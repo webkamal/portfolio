@@ -39,9 +39,9 @@ export const faqData: FAQItem[] = [
       <>
         I am a full-stack developer with a focus on both frontend and backend
         technologies. I mostly use tools like Next.js, TypeScript, Node.js,
-        Python (Django, Flask, FastAPI), MongoDB, and SQL for my regular basis
-        projects. I am also diving into Generative AI, Machine Learning, and
-        Data Science to build smarter, data-driven full-stack applications.
+        React, PostgreSQL, Supabase, and MySQL for my regular basis projects. I
+        am also diving into Generative AI and Vibe Codeing to build smarter,
+        data-driven full-stack applications.
         <br className="mb-2" />
         For more details on my tech stack and projects, please check out my{' '}
         <Link
@@ -93,7 +93,7 @@ export const faqData: FAQItem[] = [
     title: 'How can I collaborate with you?',
     content: (
       <>
-        You can reach out to me via email or Discord. I’m open to collaboration
+        You can reach out to me via email or LinkedIn. I’m open to collaboration
         on projects or ideas. Feel free to contact me through:
         <ul className="list-disc pl-6 text-black dark:text-white text-sm">
           <li>
@@ -105,6 +105,7 @@ export const faqData: FAQItem[] = [
               {siteConfig.social.email}
             </Link>
           </li>
+          {/* hide this discord 
           <li>
             Discord:{' '}
             <Link
@@ -116,6 +117,7 @@ export const faqData: FAQItem[] = [
               Kamal's Server
             </Link>
           </li>
+          */}
         </ul>
         <br className="mb-2" />
         For more details, you can check my contact information on my{' '}
@@ -256,7 +258,9 @@ export const faqData: FAQItem[] = [
         .
       </>
     )
-  },
+  }
+  {/* not needed 
+  ,
   {
     title:
       "I tried to contact you but haven't received a response, what happened?",
@@ -289,4 +293,5 @@ export const faqData: FAQItem[] = [
       </>
     )
   }
+  */
 ];

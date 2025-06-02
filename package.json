@@ -73,7 +73,7 @@
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "@types/js-cookie": "^3.0.6",
     "autoprefixer": "^10.4.20",
-    "eslint": "^9.21.0",
+    "eslint": "^9.28.0",
     "eslint-config-next": "^15.2.0",
     "next-sitemap": "^4.2.3",
     "postcss": "^8.5.3",
